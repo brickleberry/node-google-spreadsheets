@@ -4,10 +4,10 @@
   "description": "Google Spreadsheet Data API for Node.js",
   "version": "2.0.0",
   "license": "Unlicense",
-  "homepage": "https://github.com/samcday/node-google-spreadsheets",
+  "homepage": "https://github.com/brickleberry/node-google-spreadsheets",
   "repository": {
     "type": "git",
-    "url": "git://github.com/samcday/node-google-spreadsheets.git"
+    "url": "git://github.com/brickleberry/node-google-spreadsheets.git"
   },
   "main": "lib/spreadsheets.js",
   "engines": {
