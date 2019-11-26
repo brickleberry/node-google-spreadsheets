@@ -7,7 +7,7 @@
   "homepage": "https://github.com/brickleberry/node-google-spreadsheets",
   "repository": {
     "type": "git",
-    "url": "git://github.com/brickleberry/node-google-spreadsheets.git"
+    "url": "git+https://github.com/brickleberry/node-google-spreadsheets.git"
   },
   "main": "lib/spreadsheets.js",
   "engines": {
